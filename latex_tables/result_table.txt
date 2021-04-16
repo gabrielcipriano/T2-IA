@@ -1,0 +1,10 @@
+\begin{tabular}{lrrrr}
+\toprule
+{} &  mean &  std &  inf &  sup \\
+\midrule
+ZeroR            &  0.33 & 0.00 & 0.33 & 0.33 \\
+Aleatorio        &  0.27 & 0.00 & 0.27 & 0.27 \\
+Aleatorio\_Estrat &  0.47 & 0.00 & 0.47 & 0.47 \\
+Naive\_Bayes      &  0.95 & 0.05 & 0.93 & 0.97 \\
+\bottomrule
+\end{tabular}
