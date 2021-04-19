@@ -1,0 +1,17 @@
+\begin{tabular}{lrrrr}
+\toprule
+{} &  mean &  std &  inf &  sup \\
+\midrule
+ZeroR         &  0.40 & 0.02 & 0.39 & 0.41 \\
+Aleatorio     &  0.32 & 0.03 & 0.31 & 0.33 \\
+Estratificado &  0.28 & 0.01 & 0.28 & 0.28 \\
+OneR Probab   &  0.69 & 0.08 & 0.66 & 0.71 \\
+Naive Bayes   &  0.97 & 0.05 & 0.96 & 0.99 \\
+KMeans        &  0.97 & 0.05 & 0.95 & 0.98 \\
+KGA           &  0.97 & 0.04 & 0.95 & 0.99 \\
+KNN           &  0.95 & 0.05 & 0.93 & 0.97 \\
+DistKNN       &  0.95 & 0.05 & 0.93 & 0.97 \\
+Árvore Desc   &  0.90 & 0.07 & 0.88 & 0.93 \\
+Floresta      &  0.98 & 0.03 & 0.97 & 0.99 \\
+\bottomrule
+\end{tabular}
