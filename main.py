@@ -1,3 +1,5 @@
+# Trabalho 2 de IA
+## Aluno: Gabriel Ferrari Cipriano
 
 # %% [markdown]
 # ### get_score_stts(scores):
